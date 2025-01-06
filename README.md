@@ -1,17 +1,9 @@
-# geocoder2
+# Kangaroo Geocoder2
+
+**A replica of https://github.com/flutterbuddy1/geocoder2 as it was discontinued**
 
 **Easy forward and reverse geocodeing From google maps api**
 make sure to activate Maps SDK for android and ios and geocode api from  <a href="https://console.cloud.google.com">Google Cloud Console</a> 
-
-## Features
-
-* Easy To Use
-* No Errors
-
-## Code Example
-```dart
-import 'package:geocoder2/geocoder2.dart';
-```
 
 ## Get Data Form Coordinates
 ```dart
@@ -74,10 +66,3 @@ Here is the [list of supported language codes](https://developers.google.com/map
 If you don't have GOOGLE_MAP_API_KEY then you will use [*geocoder_buddy*]('https://pub.dev/packages/geocoder_buddy')
 ### Alternative
 [Geocoder Buddy]('https://pub.dev/packages/geocoder_buddy')
-
-
-### Buy Me A Coffee
-
-<a href="https://www.buymeacoffee.com/flutterbuddy">
-<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" height="50" target="_flutterbuddy">
-</a>
